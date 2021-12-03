@@ -36,6 +36,11 @@ background-image: linear-gradient(to right top, rgb(255, 200, 200), rgb(255, 150
 .room_name:hover
 {
 	cursor: pointer;
+	font-size: 25px;
+}
+
+.room_name
+{
 	font-size: 20px;
 }
 
